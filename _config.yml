@@ -45,8 +45,8 @@ social:
     url: https://www.facebook.com/people/Dr-Vikas-Gupta-Orthopaedic-Surgeon/100067774251106/
 #  - title: stack-overflow
 #    url: http://stackoverflow.com/questions/tagged/jekyll
-#  - title: bitbucket
-#    url: http://bitbucket.org/jekyll
+  - title: email
+    url: vikasjjm143@gmail.com
   - title: whatsapp
     url: http://wa.me/+917996247883
 
