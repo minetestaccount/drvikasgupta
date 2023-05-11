@@ -5,7 +5,7 @@ date: 2022-02-18
 img: 18022022.png
 alt: image-alt
 project-date: 18 February 2022
-client: -
+client: NA
 category: Distal femur fracture with hoffa's fracture
 description: RTA, a case of distal femur fracture with hoffa's fracture, operated....
 ---
