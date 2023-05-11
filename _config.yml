@@ -43,8 +43,8 @@ social:
 #    url: http://twitter.com/jekyllrb
   - title: facebook
     url: https://www.facebook.com/people/Dr-Vikas-Gupta-Orthopaedic-Surgeon/100067774251106/
-#  - title: stack-overflow
-#    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: mobile
+    url: tel:07996247883
   - title: google-plus
     url: mailto:vikasjjm143@gmail.com
   - title: whatsapp
@@ -52,7 +52,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Gov. Hospital, Surjpur (C.G.)
+  - line: Govt. Hospital, Surajpur (C.G.)
   - line: LifeLine Hospital, Ambikapur (C.G.)
 
 # Credits content
