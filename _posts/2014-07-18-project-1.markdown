@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2022-11-28
-img: 28112022.jpg
+img: 28112022.png
 alt: image-alt
 project-date: 28 November 2022
 client: Male 24Yr Old
