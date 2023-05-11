@@ -46,17 +46,17 @@ social:
 #  - title: stack-overflow
 #    url: http://stackoverflow.com/questions/tagged/jekyll
   - title: google-plus
-    url: vikasjjm143@gmail.com
+    url: https://vikasjjm143@gmail.com
   - title: whatsapp
     url: http://wa.me/+917996247883
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Ambikapur
-  - line: Chhattisgarh, India
+  - line: Gov. Hospital, Surjpur (C.G.)
+  - line: LifeLine Hospital, Ambikapur (C.G.)
 
 # Credits content
-credits: '09:00 AM To 05:00 PM IST'
+credits: '09:00 AM TO 05:00 PM IST'
 
 # Build settings
 markdown: kramdown
