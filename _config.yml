@@ -39,11 +39,11 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-#  - title: twitter
-#    url: http://twitter.com/jekyllrb
+  - title: share-alt
+    url: https://minetestaccount.github.io/drvikasgupta/
   - title: facebook
     url: https://www.facebook.com/people/Dr-Vikas-Gupta-Orthopaedic-Surgeon/100067774251106/
-  - title: phone
+  - title: phone-square
     url: tel:+917996247883
   - title: google-plus
     url: mailto:vikasjjm143@gmail.com
